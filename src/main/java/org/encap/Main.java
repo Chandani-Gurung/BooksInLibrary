@@ -1,4 +1,4 @@
-package org.example;
+package org.encap;
 
 import java.util.Scanner;
 

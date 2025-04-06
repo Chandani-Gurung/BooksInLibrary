@@ -1,4 +1,4 @@
-package org.example;
+package org.encap;
 
 public class Book {
     private String title;
