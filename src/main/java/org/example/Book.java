@@ -26,4 +26,8 @@ public class Book {
     public void borrowBook() {
         isAvailable = false;
     }
+
+    public void returnBook() {
+        isAvailable = true;
+    }
 }
